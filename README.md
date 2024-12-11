@@ -43,3 +43,5 @@ cube.set_cube_dimension(3.0, 3.0, 3.0)
 ```
 cube.display(camera_free=True)
 ```
+
+*What a beautiful cube*
